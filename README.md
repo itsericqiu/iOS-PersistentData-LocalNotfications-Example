@@ -1,4 +1,4 @@
-# iOS-PersistentData-LocalNotfications-Example
+# iOS Persistent Data & Local Notifications Tutorial
 An Example of How to Use Local Notifications and Persistent Data on iOS (Assignment for ICS4U)
 This is an assignment for my Grade 12 Computer Science course
 
